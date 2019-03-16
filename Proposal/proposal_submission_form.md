@@ -9,16 +9,16 @@
 ##### we have designed policies and procedures for smart traffic light network using our luminosity control system to dynamically adapt with the changing traffic situations. 
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### San Diego Street Light locations (SCALE SD): 
-- ##### US department of Transportation, US traffic 2015:  
+- ##### San Diego Street Light locations (SCALE SD): https://data.sandiego.gov/datasets/streetlight_inventory/
+- ##### US department of Transportation, US traffic 2015: https://www.kaggle.com/jboysen/us-traffic-2015
 
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: KaranShah95
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Karan          |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 | Karan Shah|         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 02 | Sneha Thanasekaran   |         [ ]          |             [X ]             |         [ ]          |                   [ ]                     |
 | 03 | Cliff Phan|         [X ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 04 | Jhaymar Sabino|         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
