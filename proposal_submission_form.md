@@ -3,11 +3,11 @@
 #### Team Number: `201`  
 
 #### Team Name: `LIGHT SMART`    
-  
+
 #### Your team’s hackathon idea in TWO sentences:
 ##### `Predicting the cost savings and environment savings in the San Diego county in the next 5 years using CONDITION SMART STREET LIGHTS `
 ##### `Proposing the implementation of energy efficient LED street lights with a “smart” luminosity control that can adjust the strength of light based on the various weather and traffic parameters`  
-  
+
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - ##### 'Waether_Dataset'
 - ##### 'Street_Lights'
@@ -28,9 +28,9 @@
 | 06 |    Sean Burk        |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 07 |     Ingerid         |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 08 |Carlos Hernandez     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 09 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 09 |Suzanne Till         |         [ ]          |             [ ]             |         [x]          |                   [ ]                     |
 | 10 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-  
+
 #### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City and Environment**
@@ -39,4 +39,4 @@
 
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/big_data_2019.jpg "Big Data Hackathon for San Diego 2019")  
 
-<img height="15%" width="15%" alt="hdma" src="https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/hdma2.png"> 
+<img height="15%" width="15%" alt="hdma" src="https://github.com/BigDataForSanDiego/00-Proposal-Templates/blob/master/img/hdma2.png">
