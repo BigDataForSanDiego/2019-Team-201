@@ -1,8 +1,4 @@
 # Big Data Hackathon for San Diego 2019
-## Day 1, MAR 9: Proposal Submission Guidelines
-> - Customize the Proposal Form (proposal_submission_form.md) in your team GitHub repository **by 4:30 p.m.**
-> - 90 seconds Pitch Presentation will show the top part of the form on the screen
-> - 90 seconds Pitch Presentation will show the top part of the form on the screen
 
 ## Day 2, MAR 16: Final Project Submission Guidelines
 
