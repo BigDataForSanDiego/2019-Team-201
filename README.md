@@ -114,4 +114,21 @@
 * High, medium, and low illuminance levels will be set according to weather and traffic conditions. If the sensors detect precipitation or fog, then there will be no change in illuminance, this is what will be considered “high lux”
 * If the sensors detect heavy traffic, then they will be set to “medium”
 * If the sensors don’t detect heavy traffic then they will be set to “low”
-* To calculate the difference in wattage, we will use the formula given above, and solve for wattage, given the new target lux. These values are displayed on our table as “med_wat” and “low_wat”.
+* To calculate the difference in wattage, we will use the formula given above, and solve for wattage, given the new target lux. These values are displayed on our table as “med_wat” and “low_wat."
+
+<b>References:</b>
+* Recommended Light Levels:
+  * https://www.noao.edu/education/QLTkit/ACTIVITY_Documents/Safety/LightLevels_outdoor+indoor.pdf
+  * http://www.rtcsnv.com/wp-content/uploads/2012/07/300.S3-Redlined_2014-05-152.pdf
+  * http://bsl.lacity.org/downloads/business/BSLDesignStandardsAndGuidelines0507Web.pdf
+
+
+* Github:
+    * https://github.com/BigDataForSanDiego/2019-Team-201
+  * LUX/Lumen/Watts Conversion:
+    * https://www.rapidtables.com/calc/light/how-lumen-to-watt.html
+    * kWh per State:
+    * https://www.npr.org/sections/money/2011/10/27/141766341/the-price-of-electricity-in-your-state
+  * Induction Light lumen efficacy:
+    * http://www.inductionlamps.com/pages/All-About-Induction.html
+    * https://www.lrc.rpi.edu/programs/NLPIP/PDF/VIEW/SR_StreetlightsLocal.pdf
