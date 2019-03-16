@@ -6,7 +6,7 @@
   
 #### Your team’s hackathon idea in TWO sentences:
 ##### Reduce light pollution and energy consumption from city street lights by using the city regulations for acceptable illuminance levels.
-##### we have designed policies and procedures for smart traffic light network using our luminosity control system to dynamically adapt with the changing traffic situations. 
+##### We have designed policies and procedures for smart traffic light network using our luminosity control system to dynamically adapt with the changing traffic situations. 
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - ##### San Diego Street Light locations (SCALE SD): https://data.sandiego.gov/datasets/streetlight_inventory/
