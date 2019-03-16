@@ -86,5 +86,32 @@
 <b>Conclusion:</b>
 * Savings
   * We estimate that under the new system we could save $2,800 per night to operation which would come out to almost $1,000,000 a year
-* Light Pollution reduction 
+* Light Pollution reduction
   * Wes estimate that we could reduce the light pollution by 419,316lx from approximately 40,000 lights across San Diego, which would raise the overall brightness of the city by approximately 0.114 lm/ft<sup>2</sup>
+
+<b>FAQs:</b>
+* How can we collect the traffic data?
+  * We can collect the traffic data by tapping into the sensors in stoplight, that way we can have a more accurate and real time estimation.
+* Would this system be implemented on every streetlight?
+  * For now, this system can be implemented on any type of streetlight
+* Without replacing any light bulb, how can this system be implemented?
+  * Using the same algorithm, we could install a computer that will tap into the already existing stoplight sensors, to control how much wattage is going through an entire block, without the need to replace any bulbs.
+* How do we know that car lights will provide enough coverage opposed to streetlights?
+  * The standard for cars is 900-1000 lux, but these lights are dispersed vertically on the street and hence are not completely effective on their own to cover the horizontal section of the street and that’s why they need to be complemented by the streetlights.
+
+<b>Glossary and Definitions:</b>
+* “Illuminance” is the density of the luminous flux incident on a surface; it is the quotient of the luminous flux divided by the area of the surface when the latter is uniformly illuminated.
+* “Average Maintained Footcandles” is the average level of horizontal illuminance on the roadway pavement when the output of the lamp and luminaire is diminished by the maintenance factors; expressed in average footcandles for the pavement area.
+* “Local street” means a street that provides access to individual sites. Local streets include Minor Streets, Neighborhood Streets, Lanes, Alleys, Utility Access Roads, Trails, Loop Streets and Cul-de-sac Streets. On-street parking is required on Minor Streets and Neighborhood Streets.
+* “Collector road” is a low-to-moderate-capacity road which serves to move traffic from local streets to arterial roads. Unlike arterials, collector roads are designed to provide access to residential properties. Rarely, jurisdictions differentiate major and minor collector roads, the former being generally wider and busier.
+* “Major arterial” means a street whose primary purpose is to facilitate movement of heavy traffic between major residential areas, or major residential areas and commercial areas with minimal access. Major arterial streets may consist of 2, 4, or 6 lanes.
+* Given the wattage that every bulb is using we can calculate the illuminance in lux that it is generating
+* Induction lights have a lumen efficacy of around 55.6 lm/W<sup>2</sup>
+* In order to find the current illuminance of the bulb we multiply the wattage, the efficacy, 10.76391 and divide it by the estimated surface area of the light. according to this formula.
+  * lx = 10.76391 x W x * (lm/W) / ft<sup>2</sup>
+* From there we are assuming that bulbs of wattage less than or equal to 90 are used for local/collector roads and those that are greater than 90 are used for major/local roads, given the streetlight city regulations, we can calculate the difference between what is considered a high, medium, and low level of illuminance.
+![Illuminance for interactions](Illuminance_for_interactions.png)
+* High, medium, and low illuminance levels will be set according to weather and traffic conditions. If the sensors detect precipitation or fog, then there will be no change in illuminance, this is what will be considered “high lux”
+* If the sensors detect heavy traffic, then they will be set to “medium”
+* If the sensors don’t detect heavy traffic then they will be set to “low”
+* To calculate the difference in wattage, we will use the formula given above, and solve for wattage, given the new target lux. These values are displayed on our table as “med_wat” and “low_wat”.
