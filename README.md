@@ -47,9 +47,9 @@
   * For pedestrians and cyclist we will use optimal lighting levels (3.0 lux)
 
 <b>Visualization:</b>
-https://www.youtube.com/watch?v=E32ZOP7tlMA
-https://smartlight-savings.firebaseapp.com/
-https://lightsmart.slack.com/files/UGVLBTJCW/FH11B8G9H/sd_streetlights_map_large.html
+* https://www.youtube.com/watch?v=E32ZOP7tlMA
+* https://smartlight-savings.firebaseapp.com/
+* https://lightsmart.slack.com/files/UGVLBTJCW/FH11B8G9H/sd_streetlights_map_large.html
 
 * First Visualization
   * Interactive map of the street lights that are present in San Diego Currently. Our project is to show the benefit of smart lights and how they can help you save cost and the environment. Click on the lights to turn them to smart lights and contribute to the savings.
